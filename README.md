@@ -7,6 +7,8 @@ Temple of Pwn is a Student driven presentation format to learn about the glories
 1. Buffer Overflows
 2. Format Strings
 3. Use After Free
-4. Future
+4. ROP
+5. Shellcoding
+6. House of Force
 
 

@@ -10,5 +10,7 @@ Temple of Pwn is a Student driven presentation format to learn about the glories
 4. ROP
 5. Shellcoding
 6. House of Force
+7. Fastbin Dup
+8. Unsafe Unlink
 
 

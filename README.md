@@ -15,5 +15,6 @@ Temple of Pwn is a Student driven presentation format to learn about the glories
 9. Ret2CSU
 10. srop
 11. Userspace Race 
+12. Ret2DlResolve
 
 

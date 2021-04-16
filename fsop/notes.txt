@@ -1,0 +1,1 @@
+https://elixir.bootlin.com/glibc/glibc-2.27/source/libio/strops.c#L359
